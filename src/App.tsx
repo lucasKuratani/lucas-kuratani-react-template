@@ -17,9 +17,9 @@ const App: React.FC = () => (
       <h1 style={{ fontSize: '20px' }}>
         <a
           style={{ textDecoration: 'underline', color: '#fff' }}
-          target="_blank"
-          href="https://github.com/lucasKuratani"
-          rel="noreferrer"
+          target='_blank'
+          href='https://github.com/lucasKuratani'
+          rel='noreferrer'
         >
           Lucas Kuratani
         </a>
