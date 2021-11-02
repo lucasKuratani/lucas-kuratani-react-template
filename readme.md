@@ -6,6 +6,7 @@ This project is an attempt of mine to create a single source of truth when start
 
 This project has some features that I find interesting to the development process, which I'll be listing bellow:
 
+* **Typescript** to make Javascript tolerable
 * **Babel** to transpile our Typescript code into Javascript
 * **React** fast refresh to speed up the development process
 * **Webpack** to compile our static assets and generate our bundle
